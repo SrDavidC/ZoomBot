@@ -4,5 +4,6 @@ public class Main{
     String string = new String(new char[10]).replace('\0', '*');
     System.out.println(string);
     dhgosdhgkfsdhzgjszhgs
+      lcfjglkdjfgkljdklfjgdfgdfg
   }
 }
