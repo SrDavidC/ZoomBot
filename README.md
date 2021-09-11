@@ -1,6 +1,16 @@
 # ZoomBot
 # Autores:
-Julián Mora
+Julián Mora 
+
+
+
+
 David Cerdas 
+
+
+
+
+
+
 Dwayne Taylor
     
